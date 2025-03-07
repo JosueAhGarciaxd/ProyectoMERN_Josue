@@ -1,6 +1,6 @@
 // Se está importando la aplicación desde el archivo app.js
 import app from "./app.js";
-import "./database.js"; 
+import "./database.js";
 
 // Función principal asíncrona que inicia el servidor
 async function main() {
