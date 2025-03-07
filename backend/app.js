@@ -11,4 +11,4 @@ app.use("api/products")
 //Se exporta la contante para poder usar express en otros archivos (se exporta todo)
 export default app;
 
-//En package.json tenemos que siempre agregar "type": "module" debajo de mainF
+//En package.json tenemos que siempre agregar "type": "module" debajo de main 
